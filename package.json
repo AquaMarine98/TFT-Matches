@@ -1,0 +1,19 @@
+{
+  "name": "tft-matches",
+  "version": "1.0.0",
+  "description": "Its a tft matches finder",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AquaMarine98/TFT-Matches.git"
+  },
+  "author": "#Aqua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AquaMarine98/TFT-Matches/issues"
+  },
+  "homepage": "https://github.com/AquaMarine98/TFT-Matches#readme"
+}
